@@ -1,7 +1,7 @@
 # desktop-picture-changer
 
 #### Outline 
-**Tiny** java program to change your desktop picture every now and then (or, make GIF-looking desktop animations).
+_Tiny_ Java-program to change your desktop picture every now and then (or, make GIF-looking desktop animations).
 
 #### Parameters
 
